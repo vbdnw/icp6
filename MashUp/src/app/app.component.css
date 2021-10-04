@@ -1,0 +1,5 @@
+.image{
+  min-height:100em; background-size:cover; width:100%;
+  background-image:url("https://images.unsplash.com/photo-1556911220-bff31c812dba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8a2l0Y2hlbiUyMGJhY2tncm91bmR8ZW58MHx8MHx8&amp;ixlib=rb-1.2.1&amp;w=1000&amp;q=80");
+  background-position:50% 50%;
+}
